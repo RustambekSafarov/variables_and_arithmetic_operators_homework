@@ -5,3 +5,7 @@
 # Create a variable called 'answer'.
 
 # Find the sum of a and b than assign to 'answer'
+a = 3
+b = 4
+answer = a+b
+print(answer)
